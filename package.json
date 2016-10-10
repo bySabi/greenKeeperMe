@@ -1,0 +1,65 @@
+{
+  "name": "greenkeeperme",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-cli": "*",
+    "babel-core": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-3": "*",
+    "babel-plugin-transform-class-properties": "*",
+    "babel-plugin-transform-object-rest-spread": "*",
+    "babel-plugin-transform-export-extensions": "*",
+
+    "react": "*",
+    "fbjs": "*",
+    "react-dom": "*",
+
+    "eslint": "*",
+    "babel-eslint": "*",
+    "eslint-config-standard-deviation": "*",
+    "eslint-config-standard": "*",
+    "eslint-config-standard-react": "*",
+    "eslint-plugin-standard": "*",
+    "eslint-plugin-promise": "*",
+    "eslint-plugin-react": "*",
+
+    "karma": "*",
+    "karma-chrome-launcher": "*",
+    "karma-jsdom-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "karma-webpack": "*",
+    "karma-browserify": "*",
+    "karma-sourcemap-loader": "*",
+
+    "tape": "*",
+    "tap": "*",
+    "tap-parser": "*",
+    "faucet": "*",
+    "tap-spec": "*",
+    "tap-min": "*",
+    "tap-difflet": "*",
+    "tap-diff": "*",
+    "tap-notify": "*",
+    "tap-summary": "*",
+    "tap-markdown": "*",
+
+    "babel-loader": "*",
+    "json-loader": "*",
+    "webpack": "*",
+    "webpack-dev-middleware": "*",
+    "browserify": "*",
+    "watchify": "*",
+
+    "testdouble": "*",
+    "enzyme": "*",
+    "react-addons-test-utils": "*",
+    "jest": "*",
+
+    "nyc": "*",
+
+    "rimraf": "*",
+    "cross-env": "*",
+    "mkdirp": "*"
+  }
+}
