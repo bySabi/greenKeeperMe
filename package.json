@@ -53,7 +53,7 @@
 
     "testdouble": "*",
     "enzyme": "*",
-    "react-addons-test-utils": "*",
+    "react-addons-test-utils": "15.3.2",
     "jest": "*",
 
     "nyc": "*",
