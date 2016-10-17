@@ -52,7 +52,7 @@
     "watchify": "*",
 
     "testdouble": "*",
-    "enzyme": "*",
+    "enzyme": "2.5.1",
     "react-addons-test-utils": "*",
     "jest": "*",
 
