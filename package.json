@@ -21,7 +21,7 @@
     "eslint-config-standard": "*",
     "eslint-config-standard-react": "*",
     "eslint-plugin-standard": "*",
-    "eslint-plugin-promise": "*",
+    "eslint-plugin-promise": "3.2.1",
     "eslint-plugin-react": "*",
 
     "karma": "*",
