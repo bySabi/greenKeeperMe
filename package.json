@@ -54,7 +54,7 @@
     "testdouble": "*",
     "enzyme": "*",
     "react-addons-test-utils": "*",
-    "jest": "*",
+    "jest": "16.0.2",
 
     "nyc": "*",
     "babel-plugin-istanbul": "*",
