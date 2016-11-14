@@ -22,7 +22,7 @@
     "eslint-config-standard-react": "*",
     "eslint-plugin-standard": "*",
     "eslint-plugin-promise": "*",
-    "eslint-plugin-react": "*",
+    "eslint-plugin-react": "6.7.0",
 
     "karma": "*",
     "karma-chrome-launcher": "*",
