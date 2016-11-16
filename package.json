@@ -11,7 +11,7 @@
     "babel-plugin-transform-object-rest-spread": "*",
     "babel-plugin-transform-export-extensions": "*",
 
-    "react": "*",
+    "react": "15.4.0",
     "fbjs": "*",
     "react-dom": "*",
 
