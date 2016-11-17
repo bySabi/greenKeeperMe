@@ -33,7 +33,7 @@
     "karma-sourcemap-loader": "*",
 
     "tape": "*",
-    "tap": "*",
+    "tap": "8.0.1",
     "tap-parser": "*",
     "faucet": "*",
     "tap-spec": "*",
