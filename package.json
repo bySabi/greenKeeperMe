@@ -34,7 +34,7 @@
 
     "tape": "*",
     "tap": "*",
-    "tap-parser": "*",
+    "tap-parser": "3.0.4",
     "faucet": "*",
     "tap-spec": "*",
     "tap-min": "*",
