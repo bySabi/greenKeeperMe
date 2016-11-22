@@ -32,7 +32,7 @@
     "karma-browserify": "*",
     "karma-sourcemap-loader": "*",
 
-    "tape": "*",
+    "tape": "4.6.3",
     "tap": "*",
     "tap-parser": "*",
     "faucet": "*",
