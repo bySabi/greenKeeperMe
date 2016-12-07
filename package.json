@@ -44,7 +44,7 @@
     "tap-summary": "*",
     "tap-markdown": "*",
 
-    "babel-loader": "*",
+    "babel-loader": "6.2.9",
     "json-loader": "*",
     "webpack": "*",
     "webpack-dev-middleware": "*",
