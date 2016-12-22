@@ -28,7 +28,7 @@
     "karma-chrome-launcher": "*",
     "karma-jsdom-launcher": "*",
     "karma-firefox-launcher": "*",
-    "karma-webpack": "*",
+    "karma-webpack": "1.8.1",
     "karma-browserify": "*",
     "karma-sourcemap-loader": "*",
 
