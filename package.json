@@ -9,7 +9,7 @@
     "babel-preset-stage-3": "*",
     "babel-plugin-transform-class-properties": "*",
     "babel-plugin-transform-object-rest-spread": "*",
-    "babel-plugin-transform-export-extensions": "*",
+    "babel-plugin-transform-export-extensions": "6.8.0",
 
     "react": "*",
     "fbjs": "*",
