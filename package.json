@@ -49,7 +49,7 @@
     "webpack": "*",
     "webpack-dev-middleware": "*",
     "browserify": "*",
-    "watchify": "*",
+    "watchify": "3.9.0",
 
     "testdouble": "*",
     "enzyme": "*",
