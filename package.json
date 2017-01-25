@@ -29,7 +29,7 @@
     "karma-jsdom-launcher": "*",
     "karma-firefox-launcher": "*",
     "karma-webpack": "*",
-    "karma-browserify": "*",
+    "karma-browserify": "5.1.1",
     "karma-sourcemap-loader": "*",
 
     "tape": "*",
