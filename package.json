@@ -51,7 +51,7 @@
     "browserify": "*",
     "watchify": "*",
 
-    "testdouble": "*",
+    "testdouble": "1.11.1",
     "enzyme": "*",
     "react-addons-test-utils": "*",
     "jest": "*",
