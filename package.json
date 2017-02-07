@@ -37,7 +37,7 @@
     "tap-parser": "*",
     "faucet": "*",
     "tap-spec": "*",
-    "tap-min": "*",
+    "tap-min": "1.2.1",
     "tap-difflet": "*",
     "tap-diff": "*",
     "tap-notify": "*",
