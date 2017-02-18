@@ -59,7 +59,7 @@
     "nyc": "*",
     "babel-plugin-istanbul": "*",
 
-    "rimraf": "*",
+    "rimraf": "2.6.0",
     "cross-env": "*",
     "mkdirp": "*"
   }
