@@ -17,7 +17,7 @@
 
     "eslint": "*",
     "babel-eslint": "*",
-    "eslint-config-standard-deviation": "*",
+    "eslint-config-standard-deviation": "2.0.0",
     "eslint-config-standard": "*",
     "eslint-config-standard-react": "*",
     "eslint-plugin-standard": "*",
