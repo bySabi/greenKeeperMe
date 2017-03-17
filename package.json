@@ -15,7 +15,7 @@
     "fbjs": "*",
     "react-dom": "*",
 
-    "eslint": "*",
+    "eslint": "3.18.0",
     "babel-eslint": "*",
     "eslint-config-standard-deviation": "*",
     "eslint-config-standard": "*",
