@@ -16,7 +16,7 @@
     "react-dom": "*",
 
     "eslint": "*",
-    "babel-eslint": "*",
+    "babel-eslint": "7.2.0",
     "eslint-config-standard-deviation": "*",
     "eslint-config-standard": "*",
     "eslint-config-standard-react": "*",
