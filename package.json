@@ -12,7 +12,7 @@
     "babel-plugin-transform-export-extensions": "*",
 
     "react": "*",
-    "fbjs": "*",
+    "fbjs": "0.8.10",
     "react-dom": "*",
 
     "eslint": "*",
