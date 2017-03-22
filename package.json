@@ -57,7 +57,7 @@
     "jest": "*",
 
     "nyc": "*",
-    "babel-plugin-istanbul": "*",
+    "babel-plugin-istanbul": "4.1.1",
 
     "rimraf": "*",
     "cross-env": "*",
