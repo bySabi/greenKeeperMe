@@ -56,7 +56,7 @@
     "react-addons-test-utils": "*",
     "jest": "*",
 
-    "nyc": "*",
+    "nyc": "10.2.0",
     "babel-plugin-istanbul": "*",
 
     "rimraf": "*",
