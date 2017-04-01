@@ -41,7 +41,7 @@
     "tap-difflet": "*",
     "tap-diff": "*",
     "tap-notify": "*",
-    "tap-summary": "*",
+    "tap-summary": "3.0.2",
     "tap-markdown": "*",
 
     "babel-loader": "*",
