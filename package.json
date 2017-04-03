@@ -46,7 +46,7 @@
 
     "babel-loader": "*",
     "json-loader": "*",
-    "webpack": "*",
+    "webpack": "2.3.3",
     "webpack-dev-middleware": "*",
     "browserify": "*",
     "watchify": "*",
