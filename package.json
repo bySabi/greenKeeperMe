@@ -20,7 +20,7 @@
     "eslint-config-standard-deviation": "*",
     "eslint-config-standard": "*",
     "eslint-config-standard-react": "*",
-    "eslint-plugin-standard": "*",
+    "eslint-plugin-standard": "3.0.1",
     "eslint-plugin-promise": "*",
     "eslint-plugin-react": "*",
 
