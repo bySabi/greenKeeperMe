@@ -13,7 +13,7 @@
 
     "react": "*",
     "fbjs": "*",
-    "react-dom": "*",
+    "react-dom": "15.5.3",
 
     "eslint": "*",
     "babel-eslint": "*",
