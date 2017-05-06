@@ -24,7 +24,7 @@
     "eslint-plugin-promise": "*",
     "eslint-plugin-react": "*",
 
-    "karma": "*",
+    "karma": "1.7.0",
     "karma-chrome-launcher": "*",
     "karma-jsdom-launcher": "*",
     "karma-firefox-launcher": "*",
