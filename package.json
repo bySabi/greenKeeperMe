@@ -60,7 +60,7 @@
     "babel-plugin-istanbul": "*",
 
     "rimraf": "*",
-    "cross-env": "*",
+    "cross-env": "5.0.0",
     "mkdirp": "*"
   }
 }
